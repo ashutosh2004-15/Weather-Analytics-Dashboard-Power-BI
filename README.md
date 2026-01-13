@@ -67,22 +67,24 @@ It answers questions like:
 ---
 
 ## Repository structure
+
+```
+.
 ├── Icons
-│ ├── Air pressure.png # Air pressure icon
-│ ├── Humidity.png # Humidity icon
-│ ├── placeholder.png # Placeholder icon
-│ ├── Precipitation.png # Precipitation icon
-│ ├── Sunrise.png # Sunrise icon
-│ ├── Sunset.png # Sunset icon
-│ ├── UV_index.png # UV index icon
-│ ├── Visibility.png # Visibility icon
-│ └── Wind_speed.png # Wind speed icon
+│   ├── Air pressure.png        # Air pressure icon
+│   ├── Humidity.png            # Humidity icon
+│   ├── placeholder.png         # Placeholder icon
+│   ├── Precipitation.png       # Precipitation icon
+│   ├── Sunrise.png             # Sunrise icon
+│   ├── Sunset.png              # Sunset icon
+│   ├── UV_index.png            # UV index icon
+│   ├── Visibility.png          # Visibility icon
+│   └── Wind_speed.png          # Wind speed icon
 │
-├── Dashboard snapshot.png # Screenshot of the final Power BI dashboard
-├── Desktop 3.pbix # Main Power BI report file
-└── README.md # Project documentation
-
-
+├── Dashboard snapshot.png      # Screenshot of the final Power BI dashboard
+├── Desktop 3.pbix              # Main Power BI report file
+└── README.md                   # Project documentation
+```
 ---
 
 ## How to use the dashboard
