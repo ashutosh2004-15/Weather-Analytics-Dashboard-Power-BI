@@ -67,7 +67,6 @@ It answers questions like:
 ---
 
 ## Repository structure
-.
 ├── Icons
 │ ├── Air pressure.png # Air pressure icon
 │ ├── Humidity.png # Humidity icon
