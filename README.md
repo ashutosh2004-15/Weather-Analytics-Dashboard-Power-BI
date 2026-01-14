@@ -126,7 +126,7 @@ This project helped me improve my skills in:
 
 ## Demo
 
-▶️ 
+▶️ https://www.linkedin.com/posts/ashutoshjalan-_powerbi-dataanalytics-dashboarddesign-activity-7417060420315869184-vsfh?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtN0y8BR-RYZDfsGkw78DBBtSE63Lj7P3k
 
 ---
 ## Contact
